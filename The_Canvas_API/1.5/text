@@ -1,0 +1,9 @@
+.arc(x좌표, y좌표, radius, startAngle, endAngle)
+startAngle: 지름에서 시작지점
+endAngle: 지름에서 마지막지점
+2*Math.PI: 원
+1.5*Math.PI: 3/4원
+1*Math.PI: 반원
+0.5*Math.PI: 1/4원
+
+*무언가의 색을 바꾸고 싶다면, 새로운 path가 필요한지 아닌지 먼저 생각하기
