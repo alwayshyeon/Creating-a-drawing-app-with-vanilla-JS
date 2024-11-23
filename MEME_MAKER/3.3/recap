@@ -1,0 +1,6 @@
+accept를 이용해 이미지 파일만 선택할 수 있도록 설정가능
+input에 multiple 속성을 추가하면 유저가 파일을 여러 개 업로드 가능
+유저가 업로드한 파일은 브라우저의 메모리 안에 있음
+createObjectUrl 메소드를 호출해서 URL을 통해서 해당 파일에 접근가능, 유저가 파일을 업로드한 브라우저 안에서만 사용할 수 있는 URL
+addEventListener = .onload
+onSaveClick 함수는 캔버스에 있는 그림 데이터를 URL로 변환해주는 메소드
