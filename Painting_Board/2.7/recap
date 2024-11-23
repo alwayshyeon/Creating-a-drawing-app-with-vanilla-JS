@@ -1,0 +1,7 @@
+range input: 숫자값으로 수정가능하고, 이 값의 최소, 최대, 단계 조절가능
+eventlistener: input값이 바뀔 때 마다 함수 실행시킴
+자바스크립트보다 html element가 먼저 로드됨
+html에서 div를 사용하면 원하는 문자열 어떤값이든 넣을 수 있음
+getElementByClassName은 HTMLColletion 요소들을 리턴함. 배열이 아님. 
+click =/= mousedown
+click = mousedown + mouseup
